@@ -93,7 +93,7 @@ export const educations = [
 export const projects = [
   {
     id: 1,
-    image: '/images/todoAppReactWithFirebase.png',
+    image: 'https://signmantra-theta.vercel.app/assets/navbarlogo.png',
     name: 'SIGNMANTRA',
     description: `Engineered a web application for SignMantra, a design agency which provide consulting services through the
 integration of diverse disciplines. This solution boosted operational efficiency and increased revenue by 25%..`,
@@ -103,7 +103,7 @@ integration of diverse disciplines. This solution boosted operational efficiency
   },
   {
     id: 2,
-    image: '/images/reactWeatherApp.png',
+    image: 'https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png',
     name: 'CASHFLOW360',
     description: `Developed a dynamic budget planner application using Angular for a responsive front-end, Node.js and Express
 for efficient back-end processing, and secure authentication. Implemented RESTful APIs for seamless data
@@ -115,14 +115,14 @@ performance while resolving technical issues.`,
   },
   {
     id: 3,
-    image: '/images/portfolioUsingReact.png',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png?20200513123442',
     name: 'My Portfolio Website',
     description: `This is my Portfolio Website. Also this is a part of projects. Where people can see some information \
     about me. There are 6 pages like Home, Resume, Portfolio, Contacts, Skills and Educations. For this project i \
     used 'React' for front end and 'Material-UI'.`,
     tools: ['javascript', 'react'],
-    live: 'https://sakilkhan.netlify.app/',
-    source: 'https://github.com/sakilk130/react-portfolio-website',
+    live: '/',
+    source: 'https://github.com/SrijanTrivedi00',
   },
 ];
 
