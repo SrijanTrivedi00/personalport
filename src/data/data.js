@@ -2,7 +2,7 @@ import { GitHub, LinkedIn } from '@material-ui/icons';
 
 export const heroInfo = {
   name: 'SRIJAN TRIVEDI',
-  image: 'images/myImage.jpeg',
+  image: 'https://lh3.googleusercontent.com/a/ACg8ocI0NdpODO5Uew0fWy88gGTogn0ALOi9_dvR1jfDo6cUNQqkFuKq=s360-c-no',
   
   title: [
     'Full Stack Developer',
@@ -29,35 +29,6 @@ export const heroInfo = {
   ],
 };
 
-// export const resumes = [
-//   {
-//     id: 1,
-//     year: 'July 2023 - Present',
-//     role: 'Software Specialist',
-//     companyName: 'SSL Wireless',
-//     companyUrl: 'https://www.sslwireless.com/',
-//     description:
-//       'SSL Wireless is recognized for its rapid development and efficient project execution by working with industry-standard technologies. SSL Wireless mounts on its decade long industry experience, superior technical skills and highest quality of support services to provide scalable IT solutions as a leading Software development and services company. It has deep infiltration in the Value-Added Services, Banking, Corporate, and FinTech industry of Bangladesh.',
-//   },
-//   {
-//     id: 2,
-//     year: 'March 2022 - June 2023',
-//     role: 'Software Engineer',
-//     companyName: 'Sheba Technologies Ltd.',
-//     companyUrl: 'https://www.shebatech.com.bd/',
-//     description:
-//       'Sheba Technologies Limited (STL) is part of the Sheba Group conglomerate which has been in Tech business for almost quarter of a century. STL is fully committed to bring world class technologically advanced Business Process Automation by delivering architecturally superior Software solution, Off-the-Shelf customizable Software, Artificial Intelligence and Machine Learning to our esteemed clients who are also our long-term strategic partners.',
-//   },
-//   {
-//     id: 3,
-//     year: 'January 2021 - February 2022',
-//     role: 'Software Engineer',
-//     companyName: 'PAP International Ltd.',
-//     companyUrl: 'http://papint.asia/',
-//     description:
-//       'PAP International is a Technology development and Business solution provider that covers all areas of the Industries.The company is now fully setup and operating in Bangladesh as an extension of the parent company in UK.',
-//   },
-// ];
 
 export const educations = [
   {
